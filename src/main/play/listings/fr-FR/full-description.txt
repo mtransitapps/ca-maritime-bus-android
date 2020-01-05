@@ -1,17 +1,6 @@
-Title: Maritime Bus - MonTransit
-----------
-Short description:
-Autobus Maritime Bus pour MonTransit.
-Horaires. Nouvelles.
-----------
-What's new in this version?:
-Horaires du 19 février 2015 au 19 février 2025.
-Nouvelles de @MaritimeBus1.
-----------
-Full description:
 Cette application ajoute les informations des autobus de Maritime Bus à MonTransit.
 
-L'app contient les horaires planifiés ainsi que les nouvelles de @MaritimeBus1 sur Twitter.
+L'app contient les horaires planifiées ainsi que les nouvelles de @MaritimeBus1 sur Twitter.
 
 Les autobus de Maritime Bus desservent Québec, Nouveau-Brunswick, Nouvelle-Écosse and Île-du-Prince-Édouard, Canada.
 
